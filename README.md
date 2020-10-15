@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahbub Hossain Faisal</h1>
 <h3 align="center">A wannabe Full-Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **MERN STACK & Competitive Programming**
 

@@ -9,9 +9,7 @@
 
 - ⚡ Fun fact **If I could have any superpower,It would be time management -_-**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>

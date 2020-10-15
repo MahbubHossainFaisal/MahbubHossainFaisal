@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahbub Hossain Faisal</h1>
-<h3 align="center">A wannabe Full-Stack Web Developer</h3>
+<h3 align="center">A Software Engineering Student</h3>
 
 - 🌱 I’m currently learning **React**
 

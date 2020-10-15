@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mahbubhossain249@gmail.com**
 
-- ⚡ Fun fact **I like memes based on programming**
+- ⚡ Fun fact **If I could have any superpower,It would be time management -_- **
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

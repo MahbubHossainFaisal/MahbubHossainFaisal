@@ -17,7 +17,6 @@
 <a href="https://fb.com/mahbub.hossain.334" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mahbub.hossain.334" height="30" width="40" /></a>
 <a href="https://instagram.com/mahbub_hossain_faisal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mahbub_hossain_faisal" height="30" width="40" /></a>
 <a href="https://medium.com/@mahbubhossain249" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mahbubhossain249" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mahbub hossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mahbub hossain" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mahbubhossain686" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mahbubhossain686" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/unpredicthunder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="unpredicthunder" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mahbubhossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mahbubhossain" height="30" width="40" /></a>

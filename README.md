@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mahbubhossain249@gmail.com**
 
-- ⚡ Fun fact **If I could have any superpower,It would be "TIME MANAGEMENT". I really suck at that :') **
+- ⚡ Fun fact **If I could have any superpower,It would be "TIME MANAGEMENT". I really suck at that :')**
 
 
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahbub Hossain Faisal</h1>
 <h3 align="center">A Software Engineering Student</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NodeJS**
 
 - 🤝 I’m looking for help with **MERN STACK & Competitive Programming**
 

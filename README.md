@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 🤝 I’m looking for help with **MERN STACK & Competitive Programming**
+- 🤝 I’m looking for help with **MERN STACK & Problem Solving**
 
 - 📫 How to reach me **mahbubhossain249@gmail.com**
 

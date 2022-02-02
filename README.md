@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahbub Hossain Faisal</h1>
-<h3 align="center">a Software Engineering Student</h3>
+<h3 align="center">a Software Engineering Intern at IQVIA</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Software Development, Data Science, ML related things**
 
-- 🤝 I’m looking for help with **MERN STACK & Problem Solving**
+- 🤝 I’m looking for help with **Problem Solving**
 
 - 📫 How to reach me **mahbubhossain249@gmail.com**
 

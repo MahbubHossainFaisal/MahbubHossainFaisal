@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahbub Hossain Faisal</h1>
 <h3 align="center">a Software Engineer Intern at IQVIA</h3>
 
-- 🌱 I’m currently learning **Software Development, Data Science, ML related things**
+- 🌱 I’m currently learning **Data Science, Business Intelligence related things**
 
 - 🤝 I’m looking for help with **Problem Solving**
 

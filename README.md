@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahbub Hossain Faisal</h1>
-<h3 align="center">a Business Intelligence Intern at IQVIA</h3>
+<h3 align="center">Associate Software Developer at IQVIA</h3>
 
 - 🌱 I’m currently learning **Data Science, Business Intelligence related things**
 

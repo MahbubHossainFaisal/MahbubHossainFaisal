@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently learning [Data Science](https://github.com/MahbubHossainFaisal/Data-Science)
-
-- 🌱 I’m currently learning **Pandas, Matplotlib**
+- 🔭 I’m currently learning [Data Science and Machine Learning](https://github.com/MahbubHossainFaisal/Data-Science)
 
 - 👯 I’m looking to collaborate on **Any Data Science related Projects**
 
@@ -19,7 +17,7 @@
 
 - 📫 How to reach me **mahbubhossain229@gmail.com**
 
-- ⚡ Fun fact **Did you know that studies have shown that the more we expect something to happen, the more likely we are to experience it? So, if you think that things never happen the way you want them to, you may inadvertently be setting yourself up for disappointment! By shifting your mindset and focusing on positive outcomes, you may be more likely to see things go your way. So, keep a positive attitude and see what happens!**
+- ⚡ Fun fact **Data enthusiasts have been known to create unusual and unexpected projects using data, from ranking countries based on their smile index to determining optimal strategies for surviving a zombie apocalypse.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

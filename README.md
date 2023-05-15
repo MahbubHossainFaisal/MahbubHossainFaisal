@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahbub Hossain Faisal</h1>
-<h3 align="center">A Data Professional</h3>
+<h3 align="center">A Data Science & Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbubhossainfaisal&label=Profile%20views&color=0e75b6&style=flat" alt="mahbubhossainfaisal" /> </p>
 

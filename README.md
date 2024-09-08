@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahbub Hossain Faisal</h1>
-<h3 align="center">A Data Science & Machine Learning Enthusiast</h3>
+<h3 align="center">A Data Engineering Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbubhossainfaisal&label=Profile%20views&color=0e75b6&style=flat" alt="mahbubhossainfaisal" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently learning [Data Science and Machine Learning](https://github.com/MahbubHossainFaisal/Data-Science)
+- 🔭 I’m currently learning [Data Engineering](https://github.com/MahbubHossainFaisal/Data_Engineering_Concepts)
 
 - 👯 I’m looking to collaborate on **Any Data Science related Projects**
 
-- 🤝 I’m looking for help with **Data Science, Machine Learning**
+- 🤝 I’m looking for help with **Data Engineering**
 
-- 💬 Ask me about **Business Intelligence**
+- 💬 Ask me about **Data Engineering, BI**
 
 - 📫 How to reach me **mahbubhossain229@gmail.com**
 
